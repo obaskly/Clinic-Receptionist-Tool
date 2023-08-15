@@ -1,3 +1,5 @@
+![4](https://github.com/obaskly/Clinic-Receptionist-Tool/assets/11092871/577158fe-e310-4053-991e-8c45640f234a)
+![Uploading 3.PNG…]()
 # Medical Reception Management 🩺
 
 A simple GUI application to manage a medical patients, built using PyQt5 and SQLAlchemy.
@@ -20,6 +22,13 @@ pip install PyQt5 SQLAlchemy
 ```
 python main.py
 ```
+
+## Pictures 🖼️
+
+![Uploading 2.PNG…]()
+![Uploading 1.PNG…]()
+
+
 
 ## Feedback and Contributions 🤝
 

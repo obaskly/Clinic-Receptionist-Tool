@@ -1,5 +1,3 @@
-![4](https://github.com/obaskly/Clinic-Receptionist-Tool/assets/11092871/577158fe-e310-4053-991e-8c45640f234a)
-![Uploading 3.PNG…]()
 # Medical Reception Management 🩺
 
 A simple GUI application to manage a medical patients, built using PyQt5 and SQLAlchemy.
@@ -25,10 +23,10 @@ python main.py
 
 ## Pictures 🖼️
 
-![Uploading 2.PNG…]()
-![Uploading 1.PNG…]()
-
-
+![1](https://github.com/obaskly/Clinic-Receptionist-Tool/assets/11092871/1b302a98-b6c0-47c3-b48f-eafe5f3f57f7)
+![2](https://github.com/obaskly/Clinic-Receptionist-Tool/assets/11092871/40f60dc4-294f-411b-97ae-7f5a35bf84c4)
+![3](https://github.com/obaskly/Clinic-Receptionist-Tool/assets/11092871/f6a88c6e-9d06-448c-9f1a-b0d618189828)
+![4](https://github.com/obaskly/Clinic-Receptionist-Tool/assets/11092871/25d8f6e4-b03b-4b70-8f1a-64516dfd3c2c)
 
 ## Feedback and Contributions 🤝
 
